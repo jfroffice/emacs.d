@@ -1,0 +1,9 @@
+semantic.cache
+auto-save-list
+anything-c-adaptive-history
+tramp
+*.elc
+bookmarks
+ac-comphist.dat
+vendor/nxhtml/etc/schema/xhtml-loader.rnc*
+elpa

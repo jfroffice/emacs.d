@@ -1,0 +1,16 @@
+* Profile guided typing
+  http://www.cs.umd.edu/~davidan/papers/druby-tr-4935.pdf
+* proc/lambda
+* Exceptions (raise/rescue)
+* Struct
+* callcc
+* Recursive customization
+* Integrate document server
+* Scanf type inference
+* Performance tuning
+  * CPU usage
+  * Memory footprint
+  * Cloning template
+  * Cut branches
+  * Statistics
+* stubs load-path

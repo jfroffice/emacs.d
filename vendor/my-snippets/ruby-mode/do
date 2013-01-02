@@ -1,0 +1,6 @@
+#name : do |...| ... end
+#group : control structure
+# --
+do |${e}|
+  $0
+end

@@ -1,0 +1,1 @@
+(electric-indent-mode)
