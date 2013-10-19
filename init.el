@@ -23,7 +23,7 @@
 (add-to-list 'load-path "~/.emacs.d/vendor/")
 
                                         ; basic
-(load-conf "packages")
+;;(load-conf "packages")
 (load-conf "basic-customization")
 (load-conf "customizations")
 ;;(load-conf "browser")
@@ -32,7 +32,7 @@
 ;;(load-conf "redo")   ;; a l'air pas mal mais pas de racourci utilisable
 
 ;; permet de rechercher les fichiers a ouvrir par C-x b
-(load-conf "ido")
+;;(load-conf "ido")
 (load-conf "dired-details")
 (load-conf "uniquify")
 (load-conf "theme")
@@ -53,7 +53,7 @@
 ;;(load-conf "camelscore")
 (load-conf "autopair")
                                         ; (load-conf "rainbow-delimiters")
-(load-conf "lorem-ipsum")
+;;(load-conf "lorem-ipsum")
                                         ; (load-conf "auto-fill-mode")
                                         ; (load-conf "viper")
 (load-conf "mark-multiple")
@@ -65,9 +65,9 @@
 
                                         ; general - other
 (load-conf "auto-complete")
-(load-conf "yasnippet")
+;;(load-conf "yasnippet")
 (load-conf "etags-table")
-(load-conf "my-ido-find-tag")
+;;(load-conf "my-ido-find-tag")
 (load-conf "find-file-in-project")
 (load-conf "ace-jump-mode")
 (load-conf "smex")
@@ -86,14 +86,14 @@
 ;;(load-conf "cucumber")
 ;;(load-conf "cc-mode")
 ;;(load-conf "puppet-mode")
-(load-conf "coffee-mode")
+;;(load-conf "coffee-mode")
 (load-conf "css-mode")
 ;;(load-conf "nxhtml")
 ;;(load-conf "scss-mode")
 ;;(load-conf "sass-mode")
 (load-conf "js2-mode")
 (load-conf "js2-refactor")
-(load-conf "markdown-mode")
+;;(load-conf "markdown-mode")
 ;;(load-conf "yaml-mode")
 
 (global-set-key "\C-w" 'clipboard-kill-region)
